@@ -1,0 +1,3 @@
+Duyệt theo thứ tự bài tập, bài tập sau phải có điểm lớn hơn hoặc bằng bài tập trước.
+Đặt cận:
+	currentSumScore + A[i][deg] * (K – deg) <= S
