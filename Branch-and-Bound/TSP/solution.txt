@@ -1,0 +1,7 @@
+Cách làm đã trình bày trong silde
+
+Nâng cấp đặt cận:
+	Điều kiện: currentSum + minRestSum < currentResult
+	minRestSum: tổng cạnh nhỏ nhất của các đỉnh chưa thêm vào chu trình
+
+Tham khảo thêm: Quy hoạch động trạng thái (Dynamic Programing on mask)
